@@ -120,6 +120,12 @@
       <excludeFolder url="file://$MODULE_DIR$/cms/vendor/webmozart/assert" />
       <excludeFolder url="file://$MODULE_DIR$/cms/vendor/guzzlehttp/psr7" />
       <excludeFolder url="file://$MODULE_DIR$/cms/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/cms/vendor/barryvdh/laravel-dompdf" />
+      <excludeFolder url="file://$MODULE_DIR$/cms/vendor/dompdf/dompdf" />
+      <excludeFolder url="file://$MODULE_DIR$/cms/vendor/masterminds/html5" />
+      <excludeFolder url="file://$MODULE_DIR$/cms/vendor/phenx/php-font-lib" />
+      <excludeFolder url="file://$MODULE_DIR$/cms/vendor/phenx/php-svg-lib" />
+      <excludeFolder url="file://$MODULE_DIR$/cms/vendor/sabberworm/php-css-parser" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
